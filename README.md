@@ -1,2 +1,2 @@
 [![GraceHopper0012's GitHub stats](https://readme-stats-ten-omega.vercel.app/api?username=GraceHopper0012)](https://github.com/anuraghazra/github-readme-stats)[![Top Languages](https://readme-stats-ten-omega.vercel.app/api/top-langs?username=gracehopper0012&layout=compact)](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card)
-[![Readme Card](https://readme-stats-ten-omega.vercel.app/api/pin/?username=GraceHopper0012&repo=adventofcode25)](https://github.com/codecrafterhq/codecrafterhq.github.io)
+[![Readme Card](https://readme-stats-ten-omega.vercel.app/api/pin/?username=GraceHopper0012&repo=adventofcode25)](https://github.com/GraceHopper0012/adventofcode25)
